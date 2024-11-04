@@ -1,4 +1,4 @@
-# 使用 Github Actions 在线编译 NanoPi-R2S 固件
+# 使用 Github Actions 在线编译  NanoPi-R2S 固件
 
 ## 说明
 * 管理 IP: 192.168.2.1
